@@ -1,0 +1,32 @@
+body {
+	font-size: 20px;
+	color: #D1E8E2;
+	background-color: #2C3531
+}
+h1 {
+	color: #FFCB9A;
+	background-color: #116466
+}
+#navigation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+}
+
+#content {
+    margin-left: 200px;
+}
+#footer {
+    clear: both;
+	background-color: #116466;
+	margin: 20px;
+    padding: 20px;
+}
+#main {
+	font-family: Verdana;
+	margin-left: 200px;
+	margin: 20px;
+    padding: 20px;
+
+}
