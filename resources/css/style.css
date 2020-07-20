@@ -1,11 +1,12 @@
 body {
+	font-family: Verdana;
 	font-size: 20px;
 	color: #D1E8E2;
-	background-color: #2C3531
+	background-color: #2C3531;
 }
 h1 {
 	color: #FFCB9A;
-	background-color: #116466
+	background-color: #116466;
 }
 #navigation {
     position: absolute;
@@ -17,16 +18,34 @@ h1 {
 #content {
     margin-left: 200px;
 }
-#footer {
+#header {
     clear: both;
-	background-color: #116466;
+	background-color: #D1E8E2;
 	margin: 20px;
     padding: 20px;
 }
-#main {
-	font-family: Verdana;
-	margin-left: 200px;
-	margin: 20px;
-    padding: 20px;
+#header img{
+	clear: left;
+}
 
+#header p {
+	clear: right;
+	color: #FFCB9A;
+	display: inline-block;
+}
+
+#menu-outer{
+	height: 84px;
+	display: inline-block;
+}
+.table{
+	display: table;
+	margin: 0 auto;
+}
+ul#horizontal-list {
+	min-width : 696 px;
+	list-style: none;
+}
+ul#horizontal-list li{
+	display: inline;
 }
