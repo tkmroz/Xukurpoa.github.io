@@ -8,30 +8,12 @@ h1 {
 	color: #FFCB9A;
 	background-color: #116466;
 }
-#navigation {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 200px;
-}
 
-#content {
-    margin-left: 200px;
-}
 #header {
     clear: both;
 	background-color: #D1E8E2;
 	margin: 20px;
     padding: 20px;
-}
-#header img{
-	clear: left;
-}
-
-#header p {
-	clear: right;
-	color: #FFCB9A;
-	display: inline-block;
 }
 
 #menu-outer{
