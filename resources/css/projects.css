@@ -1,0 +1,27 @@
+body {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #FFCB9A;
+	background-color: #2C3531;
+}
+#Chain-Reaction{
+	clear: both;
+	display: inline;
+}
+#Chain-Reaction img{
+	float: left;
+}
+#Chain-Reaction p{
+	margin-left:20x;
+	text-align:center;
+}
+#Golf-League {
+	clear: both;
+	padding: 20px;
+}
+#Golf-League img{
+	float: left;
+}
+#Golf-League p{
+	text-align:center;
+}
