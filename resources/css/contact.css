@@ -25,3 +25,6 @@ ul#horizontal-list {
 ul#horizontal-list li{
 	display: inline;
 }
+article img{
+	border-radius: 50%
+}
