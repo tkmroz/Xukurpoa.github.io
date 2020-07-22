@@ -4,35 +4,24 @@ body {
 	color: #FFCB9A;
 	background-color: #2C3531;
 }
-#Chain-Reaction{
+
+.Single-Project{
 	clear: both;
 	padding: 20px;
 }
-#Chain-Reaction a:visited{
-	text-decoration: none;
-	color: #FFCB9A;
+.Single-Project img{
+	float: left;
+}
+.Single-Project p{
+	text-align:center;
+}
+.Single-Project a:visited{
+	color:#FFCB9A;
+}
+.Single-Project a:link{
+	color:#FFCB9A;
 }
 
-#Chain-Reaction img{
-	float: left;
-}
-#Chain-Reaction p{
-	margin-left:20x;
-	text-align:center;
-}
-#Golf-League {
-	clear: both;
-	padding: 20px;
-}
-#Golf-League img{
-	float: left;
-}
-#Golf-League p{
-	text-align:center;
-}
-#Golf-League a:visited{
-	color: #FFCB9A;
-}
 header{
 	clear: both;
 	background-color: #D1E8E2;
