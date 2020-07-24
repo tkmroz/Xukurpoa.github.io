@@ -1,7 +1,7 @@
 body {
-	font-family: Verdana;
+	font-family: 'Lato', sans-serif;;
 	font-size: 20px;
-	color: #D1E8E2;
+	color: #FFCB9A;
 	background-color: #2C3531;
 }
 h1 {
@@ -32,9 +32,16 @@ ul#horizontal-list {
 ul#horizontal-list li{
 	display: inline;
 }
-article img{
+	
+#intro img{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
+}
+#intro h2{
+	text-align:center;
+}
+#intro p{
+	text-align:center;
 }

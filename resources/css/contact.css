@@ -28,3 +28,9 @@ ul#horizontal-list li{
 article img{
 	border-radius: 50%
 }
+article a:visited{
+	color:#FFCB9A;
+}
+article a:link{
+	color:#FFCB9A;
+}
